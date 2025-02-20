@@ -1,7 +1,7 @@
 from random import choice
 
 # ANSI escape codes
-RED = '\033[38;2;;21;21m'
+RED = '\033[38;2;228;8;10m'
 BLUE = '\033[94m'
 LIGHT_BROWN_BG = '\033[48;2;209;159;109m'  # Light brown squares
 DARK_BROWN_BG = '\033[48;2;101;67;33m'    # Dark brown squares
