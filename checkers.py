@@ -77,5 +77,4 @@ class Checkers():
                 return False
             
         return True
-    
- ''':)'''  
+
