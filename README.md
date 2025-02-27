@@ -1,2 +1,31 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/nSbtKKg7)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18274762)
+# Traditional Checkers
+This is a Checkers game implemented in Python. It follows the standard rules of Checkers and allows two players compete against each other
+
+## Features
+- Standard Checkers rule
+- Turn-based gameplay
+- King promotion when a piece reaches the opposite end
+- Capturing
+
+## Requirement
+- Python
+#### You can install this by going to the offical Python website and choose `Windows x86-64 MSI installer`
+
+## Steps
+1. Clone this repository
+
+`git clone git@github.com:WTCSC/socket-to-em-dub.git`
+
+2. Navigate to the project directory
+
+`cd socket-to-em-dub`
+
+3. Run the game
+
+`python3 server.py` or `python3 client.py`
+
+Server
+4. Enter any port number (We suggest anything above 5000)
+
+EX. Enter port to host the game on: `5000`
+
